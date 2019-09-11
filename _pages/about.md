@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Meg Schwenzfeier - About"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
