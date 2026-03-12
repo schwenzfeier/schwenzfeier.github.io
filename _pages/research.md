@@ -5,7 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers
-["Statistically Valid Inferences from Privacy Protected Data,"](https://gking.harvard.edu/dp) with Georgina Evans, Gary King, and Abhradeep Guha Thakurta.
+## Papers
+["Generative AI on Campaigns,"](https://megschwenzfeier.com/files/AI_Whitepaper_2025.pdf) with Jack Welty. 2025.
 
-My CV can be found [here](https://schwenzfeier.github.io/files/schwenzfeier_cv_oct19.pdf).
+["Statistically Valid Inferences from Privacy Protected Data,"](https://gking.harvard.edu/dp) with Georgina Evans, Gary King, and Abhradeep Thakurta. 2023. American Political Science Review.
+
+## Projects
+[Caucus AI Chatbot Tracker](https://caucus-ai.com/)
